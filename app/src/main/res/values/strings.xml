@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SignUp Page</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="fill_the_data_correctly">Fill the data correctly..</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login_here">Login Here</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="submit">Submit</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="dd_mm_yyy">dd/mm/yyy</string>
+    <string name="india">India</string>
+    <string name="about_country">About Country</string>
+</resources>
